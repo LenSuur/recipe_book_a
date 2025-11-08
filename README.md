@@ -1,5 +1,9 @@
 # Recipes
-# Mains
+
+## Appetizers
+
+## Mains
 ## Desserts
+
 - Chocolate strawberry
 - Icecream sandwitch
