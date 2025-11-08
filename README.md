@@ -1,7 +1,8 @@
 # Recipes
 
-# Appetizers
+## Appetizers
 
+## Mains
 ## Desserts
 
 - Chocolate strawberry
